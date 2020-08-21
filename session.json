@@ -1,0 +1,20 @@
+{
+    "schema_version": 2,
+    "timestamp": 1582799560,
+    "workspace": {
+        "0": [
+            [
+                {
+                    "panes": [
+                        {
+                            "type": "term",
+                            "directory": "/home/jason"
+                        }
+                    ],
+                    "label": "jason@netbook-linux:/home/jason",
+                    "custom_label_set": false
+                }
+            ]
+        ]
+    }
+}
